@@ -11,7 +11,9 @@ A C project that implements an exam system with multiple exercises. The user can
 Installation Using Make
 - Open a terminal and navigate to the solutionchecker directory.
 Run the following command to compile the project:
-    make
+
+        make
+
 This will compile your project based on the Makefile.
 
 Manual Compilation
@@ -45,9 +47,8 @@ solutions/solution_exXX.c
 You do not need to include a main.c file in the directory.
 The structure for a program task should look like this:
 ex00/
-└── solutions/
-
-    └── solution_ex00.c
+|-- solutions/
+|   `-- solution_ex00.c
 
 2. Function Task (function only, with main() provided)
 If the task is only to create a function, write your solution in:
@@ -59,7 +60,6 @@ Additionally, you must include a main.c file that tests the function implemented
 The structure for a function-only task should look like this:
 
 ex00/
-└── solutions/
-    ├── main.c
-    └── solution_ex00.c
-
+|-- solutions/
+|   |-- main.c
+|   `-- solution_ex00.c
