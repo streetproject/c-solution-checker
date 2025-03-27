@@ -46,6 +46,7 @@ You do not need to include a main.c file in the directory.
 The structure for a program task should look like this:
 ex00/
 └── solutions/
+
     └── solution_ex00.c
 
 2. Function Task (function only, with main() provided)
