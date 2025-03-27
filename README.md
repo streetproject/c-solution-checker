@@ -67,13 +67,13 @@ ex00/
   └── solution_ex00.c
 
 
-2. Function Task (function only, with main() provided)
+2. Function Task (function only, with main.c provided)
 
 If the task is only to create a function, write your solution in:
 
 solutions/solution_exXX.c
 
-Additionally, you must include a main.c file that tests the function implemented by the user and verifies its output.
+Additionally, you must include a main.c file that tests the function implemented by the user and verifies its output by checking the prototype.
 
 The structure for a function-only task should look like this:
 
