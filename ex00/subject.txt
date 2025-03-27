@@ -1,0 +1,7 @@
+Print a Character
+
+ Objective:
+ Create a program that prints the character 'Z' and a newline.
+
+:: Expected Output ::
+Z

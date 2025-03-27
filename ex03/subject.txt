@@ -1,0 +1,11 @@
+Print a String
+
+ Objective:
+ Create a function that prints a string.
+
+You must use the following function prototype: 
+ void  MQ_MyFunction(char *str);
+
+ - The function should print the given string.
+ - The output must match exactly, and moves to a newline (\n).  
+ - Do not include main().

@@ -1,0 +1,11 @@
+Print a Character
+
+ Objective:
+ Create a function that prints a single character.
+
+You must use the following function prototype: 
+ void  MQ_MyFunction(char ch);
+
+ - The function should print the given character.
+
+ - Do not include main().

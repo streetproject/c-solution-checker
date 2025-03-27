@@ -1,0 +1,10 @@
+Print a String
+
+ Objective:
+ Create a program that prints the line: "C Solution Checker"
+ and a newline.
+
+:: Expected Output ::
+C Solution Checker
+
+ - The output must match exactly, and moves to a newline (\n).  

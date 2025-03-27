@@ -1,0 +1,26 @@
+The following commands are accepted:
+
+In terminal:
+make	-- Compile & Run the exam_system program
+make again	-- Reset all exercises (empty .c files, reset progress)
+make clean	-- Delete compiled files (.out, exam_system)
+
+Commands in the program:
+========== Commands Menu ==========
+ home     - Return to the main menu
+
+ start    - Begin new exercises
+ check    - Auto-check all exercises
+ list     - Show all available exercises
+ progress - Check your progress
+ reset    - Reset progress (keep solutions)
+ erase    - Erase all progress permanently
+
+ help     - Show help information
+ about    - View program version and info
+
+ commands - Show all available commands
+ settings - Open settings
+ exit     - Exit the program
+===================================
+
