@@ -1,6 +1,8 @@
 # C Solution Checker
 An open-source C exercise checker. Feel free to contribute and make your own changes.
 
+Only tested on linux.
+
 Let me know what changes you made. Thanks!
 
 
