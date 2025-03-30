@@ -1,3 +1,9 @@
+# C Solution Checker
+An open-source C exercise checker. Feel free to contribute and make your own changes.
+
+Let me know what changes you made. Thanks!
+
+
 # C Exam System
 A C project that implements an exam system with multiple exercises.
 
